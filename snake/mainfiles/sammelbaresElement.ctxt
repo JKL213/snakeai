@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.target=sammelbaresElement
+comment1.params=X\ Farbe\ Y
+comment1.target=sammelbaresElement(int,\ double,\ int)
+numComments=2

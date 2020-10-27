@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.target=SchlangenElement
+comment1.params=X\ Nachfolger\ Y
+comment1.target=SchlangenElement(int,\ SchlangenElement,\ int)
+numComments=2

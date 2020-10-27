@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=Schlange
+comment1.params=Nachfolger\ Farbe
+comment1.target=Schlange(Schlange,\ double)
+comment2.params=farbe
+comment2.target=void\ ver\u00E4ndern(double)
+comment3.params=
+comment3.target=void\ entfernen()
+comment4.params=
+comment4.target=void\ hinzuf\u00FCgen()
+comment5.params=
+comment5.target=void\ radieren()
+comment6.params=X\ r\ Y
+comment6.target=void\ malen(int,\ boolean,\ int)
+comment7.params=
+comment7.target=void\ eingabe()
+numComments=8
